@@ -9,5 +9,10 @@
 }
 RCT_EXPORT_MODULE()
 
+RCT_EXPORT_METHOD(initCard : (RCTResponseSenderBlock)callback) {
+    
+    callback(@[[NSNull null], @(true)]);
+}
+
 @end
   
