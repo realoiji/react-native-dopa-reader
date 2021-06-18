@@ -1,8 +1,7 @@
-
 {
   "name": "react-native-dopa-reader",
   "version": "1.0.0",
-  "description": "",
+  "description": "## card reader lib",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +9,18 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Prach meesumlit (bombom.55@hotmail.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/realoiji/react-native-dopa-reader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/realoiji/react-native-dopa-reader/issues"
+  },
+  "homepage": "https://github.com/realoiji/react-native-dopa-reader",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
   }
 }
